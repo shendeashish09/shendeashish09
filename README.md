@@ -31,7 +31,7 @@ Like My Work?
 - 💬 &nbsp; Ask me about anything [here](https://github.com/shendeashish09)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: shende.ashish03@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/shendeashish09).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/shendeashish09/shendeashish09/resume.pdf).
 
 ### My Absolute Favorites:
 
