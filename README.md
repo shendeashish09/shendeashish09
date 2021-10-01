@@ -13,7 +13,7 @@ I'm a graduate in Electronics and Telecommunication ðŸŽ“ from Pune University ðŸ
 
 Joined Github **5** months ago.
 
-Since then I  created **8**+ public repositories.
+Since then I  created **8** public repositories.
 
 Like My Work?
 
