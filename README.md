@@ -12,7 +12,7 @@
 
 I'm a graduate in Electronics and Telecommunication 🎓 from Pune University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.  I'm currently into Web Development 🕸️ and I’m exploring Javascript and React World 🚀.I am a Curious learner, programmer. I think [What is needed] is the scientific approach, the adventurous and yet critical temper of science.
 
-Joined Github **5** months ago.
+Joined Github **8** months ago.
 
 Since then I  created **8** public repositories.
 
