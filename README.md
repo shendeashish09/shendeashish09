@@ -38,7 +38,7 @@ Like My Work?
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+- 🍕 &nbsp; Meetups & tech events.
 
 ### Languages and Tools:
 
