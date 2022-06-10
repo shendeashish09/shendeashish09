@@ -10,9 +10,9 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=shendeashish09.iamShendeAshish09&style=flat-square&color=0088cc)
 
 
-I'm a graduate in Electronics and Telecommunication 🎓 from Pune University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.  I'm currently into Web Development 🕸️ and I’m exploring Javascript and React World 🚀.I am a Curious learner, programmer. I think [What is needed] is the scientific approach, the adventurous and yet critical temper of science.
+I'm a graduate in Electronics and Telecommunication 🎓 from Pune University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. <!--  I'm currently into Web Development 🕸️ and I’m exploring Javascript and React World 🚀. --> I am a Curious learner, programmer. I think [What is needed] is the scientific approach, the adventurous and yet critical temper of science.
 
-Joined Github **10** months ago.
+Joined Github **1** year ago.
 
 Since then I  created **2** public repositories.
 
