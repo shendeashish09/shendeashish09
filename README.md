@@ -14,7 +14,7 @@ I'm a graduate of Electronics and Telecommunication ðŸŽ“ from Pune University ðŸ
 
 Joined Github **1** year ago.
 
-Since then I  created **2** public repositories.
+Since then I  created **6** public repositories.
 
 Like My Work?
 
