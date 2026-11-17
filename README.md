@@ -28,7 +28,7 @@ Since then I  created **10** public repositories.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/shendeashish09)
 - 💬 &nbsp; Ask me about anything [here](https://github.com/shendeashish09)! I am happy to help.
 - 📫 &nbsp; How to reach me: shende.ashish03@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/shendeashish09/shendeashish09/blob/main/Resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/shendeashish09/shendeashish09/blob/main/Ashish_Shende_Data_Engineer_2026.pdf).
 
 ### My Absolute Favorites:
 
