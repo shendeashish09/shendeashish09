@@ -1,11 +1,5 @@
 ### Hey 👋, I'm [Ashish Shende!](https://github.com/shendeashish09)
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://shendeashish09.pages.dev/)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-shende-26836918a/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ShendeAshish03)
-
-
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=shendeashish09.iamShendeAshish09&style=flat-square&color=0088cc)
 
@@ -110,11 +104,45 @@ Since then I  created **10** public repositories.
 
 </div>
 
-Like My Work?
+                                                                  Like My Work?
 
-<a href="https://www.buymeacoffee.com/shendeashish09" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-<!-- 
-[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/) -->
+<p align="center">
+  <a href="https://www.buymeacoffee.com/shendeashish09" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+         alt="Buy Me A Coffee"
+         height="60"
+         width="217">
+  </a>
+</p>
+
+
+
+
+
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
+  <samp>I'd love to connect, exchange ideas, and collaborate!</samp>
+</p>
+
+<p align="center">
+  <a href="https://shendeashish09.pages.dev/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-Visit_My_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ashish-shende-26836918a/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/ShendeAshish03">
+    <img src="https://img.shields.io/badge/TWITTER-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>✨ Turning connections into opportunities and ideas into reality.</i>
+</p>
+
+
 
 
 
