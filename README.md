@@ -48,7 +48,7 @@ Since then I  created **10** public repositories.
 <code><img height="27" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" alt="databricks"></code>
 
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL Server"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/azuredatafactory/0078D4" alt="Azure Data Factory"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Microsoft Azure"></code>
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
