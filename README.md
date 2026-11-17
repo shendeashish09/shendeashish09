@@ -26,7 +26,7 @@ Like My Work?
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> mySQL, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Python, Pyspark, DataBricks, <br /> SQL Server, Azure Data Factory, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/shendeashish09)
 - 💬 &nbsp; Ask me about anything [here](https://github.com/shendeashish09)! I am happy to help.
