@@ -14,7 +14,7 @@ I'm a graduate of Electronics and Telecommunication ðŸŽ“ from Pune University ðŸ
 
 Joined Github **5** years ago.
 
-Since then I  created **6** public repositories.
+Since then I  created **10** public repositories.
 
 Like My Work?
 
@@ -43,6 +43,7 @@ Like My Work?
 ### Languages and Tools:
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/python/python.png" alt="python"></code>
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
