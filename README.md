@@ -45,7 +45,7 @@ Like My Work?
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/python/python.png" alt="python"></code>
 
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="pyspark"></code>
-<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" alt="databricks"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" alt="databricks"></code>
 
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
