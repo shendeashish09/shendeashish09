@@ -9,6 +9,8 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=shendeashish09.iamShendeAshish09&style=flat-square&color=0088cc)
 
+### Data Engineer | Azure | SQL Server | Python | PySpark | DataBricks
+
 I'm a Data Engineer with 5 years of overall experience in Data Engineering, ETL development, data warehousing, and cloud-based solutions.
 I specialize in designing, developing, and optimizing scalable data pipelines using Azure Data Factory, SQL Server, Python, and Google Cloud Platform.
 I enjoy solving complex data engineering challenges, optimizing query performance, reducing cloud infrastructure costs, and building reliable data solutions.
@@ -49,6 +51,7 @@ Since then I  created **10** public repositories.
 
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL Server"></code>
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Microsoft Azure"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Platform"></code>
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
@@ -59,13 +62,21 @@ Since then I  created **10** public repositories.
 
 ### Projects and Dev Stuffs:
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
 
+
+<details>
+  <summary><b>⚡ GitHub Stats</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shendeashish09&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shendeashish09&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
+  <img height="180em"
+       src="https://github-stats-extended.vercel.app/api?username=shendeashish09&show_icons=true&hide_border=true&theme=default" />
+
+  <img height="180em"
+       src="https://github-stats-extended.vercel.app/api/top-langs/?username=shendeashish09&layout=compact&hide_border=true&langs_count=8&theme=default" />
+
 </details>
+
+
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
@@ -74,9 +85,9 @@ Since then I  created **10** public repositories.
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shendeashish09&hide_border=true" />
 </details>
 
-<details>
+<!--<details>
   <summary><b>🧑‍🚀 Open Source Projects</b></summary>
-</details>
+</details>-->
  
 <details>	
   <br />
