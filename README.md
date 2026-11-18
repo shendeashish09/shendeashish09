@@ -53,9 +53,9 @@ Since then I  created **10** public repositories.
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
 ### 💼 Professional Experience
-Cybage Software | Software Engineer
+#### Cybage Software | Software Engineer
 
-January 2022 – Present
+##### January 2022 – Present
 - Contributed to three key data warehousing initiatives in the media and advertising domain.
 - Designed and optimized ETL pipelines using Azure Data Factory and SQL Server.
 - Worked on migrating legacy Salesforce Datorama data flows to Azure.
@@ -63,10 +63,10 @@ January 2022 – Present
 - Implemented SQL query optimization, indexing, partitioning, and pipeline concurrency controls.
 - Decommissioned unused pipelines and implemented optimization strategies, achieving a 40% reduction in processing time and cloud costs.
 
-🚀 Key Projects
-1. Datorama to Azure Migration
+#### 🚀 Key Projects
+##### 1. Datorama to Azure Migration
 
-August 2024 – Present
+##### August 2024 – Present
 
 Technologies: Azure Data Factory | SQL Server | Python | Datorama
 - Migrating legacy ETL workflows from Salesforce Datorama to Azure Data Factory.
@@ -74,9 +74,9 @@ Technologies: Azure Data Factory | SQL Server | Python | Datorama
 - Developing performance-optimized SQL queries and stored procedures.
 - Validating data consistency and implementing monitoring and alerting mechanisms.
 
-2. Azure Cost Optimization & Analytics Revamp
+##### 2. Azure Cost Optimization & Analytics Revamp
 
-January 2023 – August 2024
+##### January 2023 – August 2024
 
 Technologies: Azure Data Factory | SQL Server | GCP BigQuery
 - Optimized existing Azure Data Factory pipelines.
@@ -93,8 +93,6 @@ Technologies: Azure Data Factory | SQL Server | GCP BigQuery
 - Introduction to Programming in C – NPTEL
 
 ### Projects and Dev Stuffs:
-
-
 
 <details>
   <summary><b>⚡ GitHub Stats</b></summary>
@@ -117,11 +115,8 @@ Technologies: Azure Data Factory | SQL Server | GCP BigQuery
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shendeashish09&hide_border=true" />
 </details>
 
-<!--<details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
-</details>-->
- 
-<details>	
+<details>
+  <summary><b>🧑‍🚀 Details </b></summary>
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
