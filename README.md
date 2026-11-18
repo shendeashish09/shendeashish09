@@ -52,7 +52,45 @@ Since then I  created **10** public repositories.
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
+### 💼 Professional Experience
+Cybage Software | Software Engineer
 
+January 2022 – Present
+- Contributed to three key data warehousing initiatives in the media and advertising domain.
+- Designed and optimized ETL pipelines using Azure Data Factory and SQL Server.
+- Worked on migrating legacy Salesforce Datorama data flows to Azure.
+- Integrated GCP services, including BigQuery and Cloud Functions, for data transformation and enrichment.
+- Implemented SQL query optimization, indexing, partitioning, and pipeline concurrency controls.
+- Decommissioned unused pipelines and implemented optimization strategies, achieving a 40% reduction in processing time and cloud costs.
+
+🚀 Key Projects
+1. Datorama to Azure Migration
+
+August 2024 – Present
+
+Technologies: Azure Data Factory | SQL Server | Python | Datorama
+- Migrating legacy ETL workflows from Salesforce Datorama to Azure Data Factory.
+- Reverse-engineering existing data flows and implementing scalable Azure pipelines.
+- Developing performance-optimized SQL queries and stored procedures.
+- Validating data consistency and implementing monitoring and alerting mechanisms.
+
+2. Azure Cost Optimization & Analytics Revamp
+
+January 2023 – August 2024
+
+Technologies: Azure Data Factory | SQL Server | GCP BigQuery
+- Optimized existing Azure Data Factory pipelines.
+- Refactored SQL queries and implemented pipeline concurrency controls.
+- Applied indexing, partitioning, and caching strategies to improve query performance.
+- Integrated GCP-based analytics layers for enhanced data insights.
+- Focused on reducing processing time and cloud infrastructure costs.
+
+### 🏆 Certifications
+- 🥇 Google Cloud Professional Data Engineer – December 2025
+- Python for Data Science – NPTEL
+- Business Analytics & Text Mining using Python – NPTEL
+- Datorama Platform Advanced – Salesforce
+- Introduction to Programming in C – NPTEL
 
 ### Projects and Dev Stuffs:
 
@@ -98,22 +136,26 @@ Since then I  created **10** public repositories.
 
 #
 
-<div align="center">
+
+### 💡 Turning Data Into Insights, One Pipeline at a Time!
+Thanks for visiting my profile! 😊
+
+<!-- <div align="center">-->
 
 ### Show some ❤️ by starring some of the repositories!
 
-</div>
+<!-- </div> -->
 
-                                                                  Like My Work?
+Like My Work?
 
-<p align="center">
+<!-- <p align="center"> -->
   <a href="https://www.buymeacoffee.com/shendeashish09" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
          alt="Buy Me A Coffee"
          height="60"
          width="217">
   </a>
-</p>
+<!--  </p> -->
 
 
 
