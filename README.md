@@ -157,13 +157,13 @@ Like My Work?
 
 
 
-<h2 align="center">🤝 Let's Connect</h2>
+<h2 >🤝 Let's Connect</h2>
 
-<p align="center">
+<p >
   <samp>I'd love to connect, exchange ideas, and collaborate!</samp>
 </p>
 
-<p align="center">
+<p >
   <a href="https://shendeashish09.pages.dev/">
     <img src="https://img.shields.io/badge/PORTFOLIO-Visit_My_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
@@ -175,7 +175,7 @@ Like My Work?
   </a>
 </p>
 
-<p align="center">
+<p >
   <i>✨ Turning connections into opportunities and ideas into reality.</i>
 </p>
 
