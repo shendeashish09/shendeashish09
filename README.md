@@ -1,6 +1,5 @@
 ### Hey 👋, I'm [Ashish Shende!](https://github.com/shendeashish09)
 
-
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=shendeashish09.iamShendeAshish09&style=flat-square&color=0088cc)
 
 ### Data Engineer | Azure | SQL Server | Python | PySpark | DataBricks
@@ -97,7 +96,6 @@ Technologies: Azure Data Factory | SQL Server | GCP BigQuery
 <details>
   <summary><b>⚡ GitHub Stats</b></summary>
   <br />
-
   <img height="180em"
        src="https://github-stats-extended.vercel.app/api?username=shendeashish09&show_icons=true&hide_border=true&theme=default" />
 
@@ -110,7 +108,6 @@ Technologies: Azure Data Factory | SQL Server | GCP BigQuery
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
-
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shendeashish09&hide_border=true" />
 </details>
@@ -131,31 +128,19 @@ Technologies: Azure Data Factory | SQL Server | GCP BigQuery
 
 #
 
-
 ### 💡 Turning Data Into Insights, One Pipeline at a Time!
 Thanks for visiting my profile! 😊
 
-<!-- <div align="center">-->
-
 ### Show some ❤️ by starring some of the repositories!
-
-<!-- </div> -->
 
 Like My Work?
 
-<!-- <p align="center"> -->
   <a href="https://www.buymeacoffee.com/shendeashish09" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
          alt="Buy Me A Coffee"
          height="60"
          width="217">
   </a>
-<!--  </p> -->
-
-
-
-
-
 
 <h2 >🤝 Let's Connect</h2>
 
@@ -178,8 +163,3 @@ Like My Work?
 <p >
   <i>✨ Turning connections into opportunities and ideas into reality.</i>
 </p>
-
-
-
-
-
